@@ -2,7 +2,7 @@
 ![alt text](https://github.com/Tobias-Abele/3DModelsLabware/blob/main/ChannelSlides/SlideHolders/SlideHolders.png)
 
 <p align="center">
-**Lab favourites:**
+**Lab favourites**
   <br/>
 72 well slide: Margins: 1 mm, Y: 80.00 mm, Z: 62.00 mm
   <br/>
