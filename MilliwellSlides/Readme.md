@@ -7,8 +7,8 @@ These milliwell slides were designed for regular use in a wet lab. They were pri
 
 ### Slide generator
 Customization (higher walls for more medium for cell culture experiments, e.g.) is possible using the *Slidegenerator.blend* file after downloading Blender. The file was created using Blender 4.3.2 using geometry nodes and might result in errors when used in different Blender versions. The geometry nodes setup can be found below, as well as a screenshot of the *Modifiers* tab for changing parameters of the slide.
-![Geometry nodes setup of the slide generator](https://github.com/Tobias-Abele/3DModelsLabware/blob/main/MilliwellSlides/MilliWellSlides.png)
-![Modifiers tab in Blender of the slide for changing parameters](https://github.com/Tobias-Abele/3DModelsLabware/blob/main/MilliwellSlides/MilliWellSlides.png)
+![Geometry nodes setup of the slide generator](https://github.com/Tobias-Abele/3DModelsLabware/blob/main/MilliwellSlides/GeometryNodes.png)
+![Modifiers tab in Blender of the slide for changing parameters](https://github.com/Tobias-Abele/3DModelsLabware/blob/main/MilliwellSlides/ModifiersTab.png)
 
 ### Lab favorites
 General:
