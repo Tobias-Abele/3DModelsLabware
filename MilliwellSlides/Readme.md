@@ -10,7 +10,7 @@ Design and print custom milliwell slides for laboratory experiments. This reposi
 
 These milliwell slides are designed for standard use in a wet lab. They were printed with a filament 3D printer using PLA. No harmful effects were observed when used with lipid vesicles or standard cell culture lines. However, **PLA is not guaranteed to be non-(cyto)toxic**. Use at your own discretion.
 
-- Download ready-to-print STL files from the [STL folder](https://github.com/Tobias-Abele/3DModelsLabware/tree/main/MilliwellSlides).
+- Download ready-to-print STL files from the [STL folder](https://github.com/Tobias-Abele/3DModelsLabware/tree/main/MilliwellSlides/STL-Folder).
 - Customize your own designs using the `Slidegenerator.blend` file in [Blender](https://www.blender.org/download/).
 
 ---
@@ -21,7 +21,7 @@ You can use this project in two ways:
 
 ### ➤ **Option 1: Use Predefined Slides**
 
-1. Go to the [MilliwellSlides folder](https://github.com/Tobias-Abele/3DModelsLabware/tree/main/MilliwellSlides).
+1. Go to the [MilliwellSlides STL folder](https://github.com/Tobias-Abele/3DModelsLabware/tree/main/MilliwellSlides/STL-Files).
 2. Download any of the `.stl` files for your preferred layout.
 3. Import the STL into your 3D printer software and print.
 
