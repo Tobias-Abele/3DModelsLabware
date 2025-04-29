@@ -1,8 +1,13 @@
 
 ![alt text](https://github.com/Tobias-Abele/3DModelsLabware/blob/main/MilliwellSlides/MilliWellSlides.png)
 # Milliwell slides
+### General use
 
-These milliwell slides were designed for regular use in a wet lab and printed with 
+These milliwell slides were designed for regular use in a wet lab. They were printed with a filament 3D printer using standard PLA filament. No harm was detected when used with lipid vesicles or for cell culture (using standard cell lines). However, I cannot guarantee non-(cyto)toxicity using PLA filament. You can find the well slides most often used in our lab as stl files. For customization, *Slidegenerator.blend* offers the possibility to adjust slide and well parameters to your needs. Parameters used for our lab favorites can be found [below](#lab-favorites) under 
+
+### Hello
+
+### Lab favorites
 
 <p align="center">
 <b>Lab Favorites</b>
