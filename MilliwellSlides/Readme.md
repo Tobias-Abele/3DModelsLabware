@@ -2,7 +2,7 @@
 ![alt text](https://github.com/Tobias-Abele/3DModelsLabware/blob/main/ChannelSlides/SlideHolders/SlideHolders.png)
 
 <p align="center">
-<b>Lab favourites</b>
+<b>Lab Favorites</b>
  <br/>
 General: 
  <br/>
