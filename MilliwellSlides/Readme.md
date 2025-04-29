@@ -1,10 +1,13 @@
 
 ![alt text](https://github.com/Tobias-Abele/3DModelsLabware/blob/main/MilliwellSlides/MilliWellSlides.png)
+# Milliwell slides
+
+These milliwell slides were designed for regular use in a wet lab and printed with 
 
 <p align="center">
 <b>Lab Favorites</b>
  <br/>
-#General: 
+General: 
  <br/>
 60.0 mm x 24.0 mm x 1.0 mm Base, 
  <br/>
