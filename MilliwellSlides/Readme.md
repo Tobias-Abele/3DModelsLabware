@@ -10,7 +10,15 @@ General:
  <br/>
 50.0 mm x 23.0 mm x 4.0 mm Walls,
  <br/>
-72 well slide: Margins: 1.0 mm, well size: 3.0 mm x 3.0 mm, 
+ <br/>
+ <br/>
+72 well slide: Well size: 3.0 mm x 3.0 mm, 1.0 mm Margins
   <br/>
-Single Holder wide: X: 30.00 mm, Y: 80.00 mm, Z: 31.00 mm
+36 well slide: Well size: 4.0 mm x 4.0 mm, 1.0 mm Margins
+ <br/>
+18 well slide: Well size: 5.5 mm x 5.5 mm, 1.5 mm Margins
+ <br/>
+4 well slide: Well size: 10.0 mm x 20.0 mm, 2.0 mm Margins
+ <br/>
+2 well slide: Well size: 22.0 mm x 20.0 mm, 2.0 mm Margins
 </p>
