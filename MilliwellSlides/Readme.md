@@ -4,13 +4,11 @@
 <p align="center">
 <b>Lab Favorites</b>
  <br/>
-General: 
+#General: 
  <br/>
 60.0 mm x 24.0 mm x 1.0 mm Base, 
  <br/>
 50.0 mm x 23.0 mm x 4.0 mm Walls,
- <br/>
- <br/>
  <br/>
 72 well slide: Well size: 3.0 mm x 3.0 mm, 1.0 mm Margins
   <br/>
