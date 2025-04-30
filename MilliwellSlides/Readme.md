@@ -44,8 +44,7 @@ The file `Slidegenerator.blend` was created using **Blender 4.3.2** with geometr
 
 **Visual aids:**
 
-<img src="https://github.com/Tobias-Abele/3DModelsLabware/blob/main/MilliwellSlides/GeometryNodes.png" width="400" alt="Geometry nodes setup of the slide generator">
-<img src="https://github.com/Tobias-Abele/3DModelsLabware/blob/main/MilliwellSlides/ModifiersTab.png" height="300" alt="Modifiers tab in Blender of the slide for changing parameters">
+<img src="https://github.com/Tobias-Abele/3DModelsLabware/blob/main/MilliwellSlides/GeometryNodes.png" width="400" alt="Geometry nodes setup of the slide generator"> <img src="https://github.com/Tobias-Abele/3DModelsLabware/blob/main/MilliwellSlides/ModifiersTab.png" height="300" alt="Modifiers tab in Blender of the slide for changing parameters">
 
 ---
 
@@ -66,6 +65,21 @@ These are the milliwell configurations most commonly used in our lab:
 | 18 well slide  | 5.5 × 5.5       | 1.5           |
 | 36 well slide  | 4.0 × 4.0       | 1.0           |
 | 72 well slide  | 3.0 × 3.0       | 1.0           |
+
+---
+
+## 🔬 Laboratory Use Tips
+
+These milliwell slides are not just designed — they’re *lab-tested* and optimized for practical experiments!
+
+### 🖨️ Printing & Preparation
+- For best results, I **always print** these slides on a **textured PEI plate**. This creates a slightly roughened bottom surface, which improves adhesion when gluing to glass.
+- To mount the printed slides onto standard glass slides, I use a **silicon-based two-component glue** — the type commonly used in dentistry works beautifully!
+- Of course, you can also explore other bonding techniques like **solvent welding** or different adhesives, depending on your lab’s needs.
+
+### 🧫 Cell Culture Notes
+- For cell culture applications, I recommend printing the slides with a **height of 8 mm**. This extra height allows for more medium and better handling during experiments.
+- Bonus: The favorite slide designs in this repository are specifically sized so that an **Ibidi lid** fits snugly on top — perfect for maintaining sterile conditions during cell culture work!
 
 ---
 
