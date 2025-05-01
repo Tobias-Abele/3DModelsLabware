@@ -67,7 +67,7 @@ This channel slide is *lab-tested* and designed for real-world flexibility!
 - `DoubleBigReservoir.blend` — editable Blender file.
 - `DoubleBigReservoir.png` — rendered preview image.
 
-All files are located in the [`01-DoubleBigReservoir`](ChannelSlides/01-DoubleBigReservoir) folder.
+All files are located in the [`01-DoubleBigReservoir`](https://github.com/Tobias-Abele/3DModelsLabware/tree/main/ChannelSlides/01-DoubleBigReservoir) folder.
 
 ---
 
