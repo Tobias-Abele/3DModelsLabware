@@ -41,6 +41,8 @@ This channel slide is *lab-tested* and designed for real-world flexibility!
 
 ### 🖨️ Printing & Preparation
 - Print on a **textured PEI plate** for best adhesion and a slightly rough surface ideal for glue bonding.
+- For best results, use **PVA filament as support material** for the internal connections between the reservoirs and the middle channel. 
+  (Recommended: water-soluble PVA like *PolyDissolve S1* — just dissolve it in water after printing for clean channels!)
 - After printing, use a **silicon-based two-component glue** (like dentist silicone glue) and fill the groove on the bottom of the slide.
 - Stick the slide onto a **standard glass slide** (e.g., 24 mm × 50 mm coverslip) and let the glue dry completely.
 
