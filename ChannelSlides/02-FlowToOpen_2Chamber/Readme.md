@@ -1,6 +1,6 @@
 # FlowToOpen_2Chamber Slide
 
-![Rendered image of the FlowToOpen_2Chamber slide](./FlowToOpen_2Chamber.png)
+
 
 Create **efficient flow chambers** or **large open reservoirs** with minimal liquid volumes!  
 The **FlowToOpen_2Chamber** slide is designed with two curved chambers and side spacers, making it ideal for flexible lab experiments — from cell culture to solution flow studies.  
