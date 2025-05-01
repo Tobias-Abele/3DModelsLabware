@@ -23,14 +23,13 @@ You can get started in two ways:
 
 ### ➤ **Option 1: Use the Pre-made STL File**
 
-1. Go to the [`01-DoubleBigReservoir`](./01-DoubleBigReservoir) folder.
-2. Download the `DoubleBigReservoir.stl` file.
-3. Import the STL into your 3D printer software and print (recommended: PLA on textured PEI plate).
+1. Download the `DoubleBigReservoir.stl` file.
+2. Import the STL into your 3D printer software and print (recommended: PLA on textured PEI plate).
 
 ### ➤ **Option 2: Customize in Blender**
 
 1. Download and install [Blender 4.3.2](https://www.blender.org/download/).
-2. Open the `DoubleBigReservoir.blend` file in the folder.
+2. Download and open the `DoubleBigReservoir.blend` file in Blender.
 3. Adjust dimensions or features if desired.
 4. Export your customized version as an STL and print.
 
