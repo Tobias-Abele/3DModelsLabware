@@ -30,7 +30,11 @@ You can use this project in two ways:
 1. Download and install [Blender 4.3.2](https://www.blender.org/download/).
 2. Open `Slidegenerator.blend` in Blender.
 3. Adjust slide parameters in the *Modifiers* tab or via geometry nodes.
-4. Export your custom design as an STL for printing.
+4. Export your customized version as an STL and print:  
+   - Go to **File → Export → STL (.stl)**  
+   - Make sure to tick:
+     - ✅ **Selection Only**
+     - ✅ **Apply Modifiers**
 
 ---
 
