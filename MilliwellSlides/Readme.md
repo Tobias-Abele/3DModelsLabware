@@ -1,6 +1,6 @@
 # Milliwell Slides
 
-![Rendered image of the favorite milliwell slides of my lab](./MilliWellSlides.png)
+![Rendered image of the favorite milliwell slides of my lab](./Images/MilliWellSlides.png)
 
 Design and print custom milliwell slides for laboratory experiments. This repository provides STL files for commonly used slide layouts in our lab, along with a fully customizable **Blender-based slide generator** using geometry nodes.
 
@@ -48,7 +48,7 @@ The file `Slidegenerator.blend` was created using **Blender 4.3.2** with geometr
 
 **Visual aids:**
 
-<img src="./GeometryNodes.png" width="400" alt="Geometry nodes setup of the slide generator"> <img src="./ModifiersTab.png" height="300" alt="Modifiers tab in Blender of the slide for changing parameters">
+<img src="./Images/GeometryNodes.png" width="400" alt="Geometry nodes setup of the slide generator"> <img src="./Images/ModifiersTab.png" height="300" alt="Modifiers tab in Blender of the slide for changing parameters">
 
 ---
 
