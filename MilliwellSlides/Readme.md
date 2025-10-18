@@ -2,7 +2,7 @@
 
 ![Rendered image of the favorite milliwell slides of my lab](./Images/MilliWellSlides.png)
 
-Design and print custom milliwell slides for laboratory experiments. This repository provides STL files for commonly used slide layouts in our lab, along with a fully customizable **Blender-based slide generator** using geometry nodes.
+Design and print custom milliwell slides for laboratory experiments. This repository provides STL files for commonly used slide layouts in my lab, along with a fully customizable **Blender-based slide generator** using geometry nodes.
 
 ---
 
@@ -54,7 +54,7 @@ The file `Slidegenerator.blend` was created using **Blender 4.3.2** with geometr
 
 ## ⭐ Lab Favorites
 
-These are the milliwell configurations most commonly used in our lab:
+These are the milliwell configurations most commonly used in my lab:
 
 ### General Dimensions
 - **Base:** 60.0 mm × 24.0 mm × 1.0 mm  
